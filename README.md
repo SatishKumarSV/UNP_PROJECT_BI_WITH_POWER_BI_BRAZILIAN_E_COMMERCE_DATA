@@ -6,6 +6,6 @@ Additionally, it examines order pricing, freight costs, and total revenue genera
 
 By integrating multiple datasets, the dashboard offers a holistic view of the Brazilian e-commerce landscape. It enables businesses to optimize logistics, improve customer experiences, and refine pricing and marketing strategies, ultimately driving data-driven decision-making in the e-commerce industry.
 
-PROJECT DASHBOARD FILE :
+PROJECT DASHBOARD FILE :https://drive.google.com/file/d/1H7T8I2cvWxAl3nbY6NL5toDpo9pSj0yc/view?usp=sharing
 
-PROJECT PDF FILE :
+PROJECT PDF FILE :https://drive.google.com/file/d/1hAECB12KNVdnFSvnlfpyKFMiPumxMXRi/view?usp=sharing
